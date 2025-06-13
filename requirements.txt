@@ -1,0 +1,5 @@
+networkx
+pandas
+matplotlib
+python-louvain
+pyvis          # optional, only for interactive HTML (community.html)
